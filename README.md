@@ -1,2 +1,8 @@
-# aws-security-ec2-termination-alert
-A security-focused AWS architecture to detect and alert on EC2 instance termination events.
+# AWS EC2 Termination Alert
+
+## 日本語
+このプロジェクトは、EC2インスタンスが削除された際に検知して通知するセキュリティ特化のAWSアーキテクチャです。
+
+## English
+This project is a security-focused AWS architecture to detect and alert when an EC2 instance is terminated.
+
