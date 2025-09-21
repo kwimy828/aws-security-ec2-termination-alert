@@ -30,9 +30,9 @@
 
 EC2を削除するとSlackに通知が届きます。
 
-![EC2削除](./images/execution_result1.png)
+![EC2削除](./images/execution_result2.png)
 
-![通知結果](./images/execution_result2.png)
+![通知結果](./images/execution_result3.png)
 
 
 <br><br><br>
